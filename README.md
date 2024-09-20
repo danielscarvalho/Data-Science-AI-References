@@ -14,6 +14,7 @@ Data Science and AI (Artificial Intelligence) references and online books
 - https://allendowney.github.io/ElementsOfDataScience/
 - https://jakevdp.github.io/PythonDataScienceHandbook/
 - https://greenteapress.com/wp/think-python-3rd-edition/
+- https://greenteapress.com/wp/think-stats-2e/
 - https://www.statlearning.com/
 - https://books.goalkicker.com/PythonBook/
 - https://pythonfluente.com/
